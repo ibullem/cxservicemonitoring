@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="1px">
+        <tr>
+            <td>Hello World</td>
+        </tr>
+    </table>
+    <br>
+    <table border="1px">
+        <tr>
+            <td>Row1, col1</td>
+            <td>Row1, col2</td>
+            <td>Row1, col3</td>
+        </tr>
+    </table>
+    <br>
+    <table border="1px">
+        <tr>
+            <td>Row1, Col1</td>
+        </tr>
+        <tr>
+            <td>Row2, Col1</td>
+        </tr>
+        <tr>
+            <td>Row3, Col1</td>
+        </tr>
+    </table>
+    <table border="1px">
+        <tr>
+            <td>row1, col1</td>
+            <td>row1, col2</td>
+        </tr>
+        <tr>
+            <td>row2, col1</td>
+            <td>row2, col2</td>
+        </tr>
+    </table>
+
+    <table>
+        <tr>
+            <th>S/N</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Status</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>theDevPrince</td>
+            <td>36</td>
+            <td>Active</td>
+        </tr>
+    </table>
+</body>
+</html>
